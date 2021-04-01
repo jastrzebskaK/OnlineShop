@@ -1,0 +1,152 @@
+body {
+  display: block;
+  background-color: white;
+}
+
+a:hover {
+  color: white;
+}
+nav {
+  background-color: gray;
+  color: white;
+}
+
+.navbar-brand {
+  color: rgb(211, 208, 208);
+  letter-spacing: 2px;
+}
+
+.nav-link {
+  color: rgba(204, 193, 193, 0.945);
+  font-size: 20px;
+}
+.active {
+  color: white;
+}
+.btn {
+  background-color: whitesmoke;
+  color: black;
+  border-color: black;
+}
+
+.bi {
+  margin-left: 5px;
+  margin-top: 18px;
+  color: grey;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  margin-top: 0px;
+}
+
+.card-title {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 80px;
+  text-align: center;
+  color: rgb(250, 245, 245);
+}
+
+.btn-dark {
+  background-color: rgba(204, 193, 193, 0.774);
+  height: 40px;
+  width: 250px;
+}
+
+.col-12 h1 {
+  font-family: "Abel", sans-serif;
+  text-align: center;
+  color: rgb(61, 59, 59);
+  background-color: rgba(224, 220, 220, 0.849);
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
+.col-12 h2 {
+  text-align: center;
+  font-family: "Abel", sans-serif;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bi {
+  color: rgb(238, 217, 217);
+}
+
+.card {
+  background-color: rgba(160, 155, 155, 0.712);
+}
+.card-group {
+  padding: 100px;
+}
+.card-text {
+  color: black;
+}
+
+.alert {
+  text-align: center;
+  color: rgba(255, 0, 0, 0.637);
+  background-color: rgb(70, 66, 66);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999999;
+  width: 100%;
+  border: none;
+  border-radius: none;
+}
+
+.footer-social .item {
+  display: inline-block;
+  justify-content: space-around;
+}
+
+.footer-global {
+  background-color: grey;
+  height: 150px;
+  padding-top: 20px;
+}
+
+.find {
+  font-family: "Abel", sans-serif;
+  color: white;
+  margin-left: 50px;
+  letter-spacing: 2px;
+}
+.write {
+  font-family: "Abel", sans-serif;
+  color: white;
+  margin-left: 150px;
+  letter-spacing: 2px;
+}
+.call {
+  font-family: "Abel", sans-serif;
+  color: white;
+  margin-left: 150px;
+  letter-spacing: 2px;
+}
+
+.bi-envelope {
+  color: black;
+}
+
+.number {
+  font-family: "Abel", sans-serif;
+  font-size: 15px;
+  color: white;
+  margin-left: 130px;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+}
+
+h5 {
+  font-size: 15px;
+  color: white;
+  letter-spacing: 2px;
+  font-family: "Abel", sans-serif;
+}
